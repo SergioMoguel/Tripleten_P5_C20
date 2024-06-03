@@ -8,3 +8,5 @@ Histograma: Observa la distribución de los precios de los vehículos de un vist
 Gráfico de Dispersión: Explora la relación entre diferentes variables y los precios, identificando patrones y tendencias.
 
 Boxplot: Descubre la variabilidad y los valores atípicos en los precios de los vehículos con esta representación visual.
+
+**Link a la aplicación**: https://tripleten-p5-c20-1.onrender.com
